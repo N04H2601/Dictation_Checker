@@ -1,2 +1,2 @@
 # Dictation_Checker
-This repository contains a dictation checker project that I made in Python with PyQt5.
+This repository contains a dictation checker project I did in Python with PyQt5 during my junior year in high school.
